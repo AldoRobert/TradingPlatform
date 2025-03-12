@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SOI.MS.WebAPI2/1.0.0": {
+        "runtime": {
+          "SOI.MS.WebAPI2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SOI.MS.WebAPI2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
