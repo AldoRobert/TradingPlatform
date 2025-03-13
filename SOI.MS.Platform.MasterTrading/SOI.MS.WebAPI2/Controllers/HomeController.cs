@@ -28,5 +28,13 @@ namespace SOI.MS.WebAPI2.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+        [AcceptVerbs("GET")]
+        public string PepeGet()
+        {
+
+
+            return "OK";
+        }
     }
 }
